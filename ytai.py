@@ -1,3 +1,11 @@
+# Copyright (c) 2026 ilter2014
+# CmdTools - Windows komut satırı araç kutusu
+# GitHub: github.com/ilter2014/CmdTools
+#
+# Bu dosya CmdTools projesinin bir parçasıdır.
+# İzin alınmadan kopyalanması, dağıtılması veya değiştirilmesi yasaktır.
+#
+
 # -*- coding: utf-8 -*-
 """
 ytai.py — YtAI: Doğal Dil Finansal Yapay Zeka Asistanı
