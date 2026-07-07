@@ -116,7 +116,9 @@ $ calc 25*8+10
 ```text
 $ passgen 16 3
 
-aB3$xK9#mP2&vR7
+rF3)I)kwGqJ$*D]#
+<&H}P)Pjy0w9?XA3
+wbUvb!EMKX#3o^?)
 ...
 ```
 
@@ -127,6 +129,7 @@ aB3$xK9#mP2&vR7
 - Python 3.8+
 - Windows 10/11
 - İnternet bağlantısı (API çağrıları için)
+- İntarnet bağlantısı yoksa dışarı ile iletişim kurmayan sistem komutları kullanılabilir ancak güncellemeler yapılamaz
 
 ---
 
@@ -136,9 +139,6 @@ aB3$xK9#mP2&vR7
 C:\CmdTools\
 
 ├── updaterouter.py      # Ana yönlendirici (tüm komutları .py dosyalarına yönlendirir)
-├── cmdtools.py          # Ana menü ve yardım
-├── sysinfo.py           # Sistem bilgileri
-├── ip.py                # IP ve ağ bilgileri
 ├── *.py                 # Diğer tüm komut dosyaları
 ├── *.cmd                # Çalıştırma kısayolları
 ├── version              # Sürüm bilgisi
