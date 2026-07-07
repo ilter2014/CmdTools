@@ -27,27 +27,25 @@ Projeyi `C:\CmdTools` dizinine kopyalayın.
 Her komut bir `.cmd` dosyası ile çağrılır.
 
 ## Örnek Kullanım
-
-```batch
-sysinfo                     :: Sistem bilgilerini gösterir
-ip                          :: IP ve ağ bilgilerini gösterir
-pingtest                    :: İnternet gecikmesini ölçer
-speedtest                   :: İnternet hız testi yapar
-analiz btcusdt              :: Teknik analiz yapar (kripto)
-analiz manas                :: Teknik analiz yapar (hisse)
-haber BTC                   :: Finansal haberleri gösterir
-grafik thyao 1h             :: Terminalde Türk Hava Yolları hissesinin 1 saatlik grafiğini çizer
-grafik btcusdt 15m          :: Terminalde Bitcoin Usdt Kriptosunun 15 dakikalık grafiğini çizer
-ns google.com               :: Girilen domainin nameserverlarını verir
-passgen 24 3                :: Tanesi 24 karakterden oluşan 3 adet güçlü şifre üretir
-genuuid                     :: 1 adet uuid üretir
-genuuid --upper             :: 1 adet büyük harflerden oluşan uuid üretir
-genuuid 8                   :: 8 adet uuid üretir
-genuuid 8 --upper           :: 8 adet büyük harflerden oluşan uuid üretir
-size C:/CmdTools            :: C:/CmdTools klasörünün boyutunu gösterir
-size C:/CmdTools/README.md  :: C:/CmdTools/README.md dosyasının boyutunu gösterir
-
-```
+| Komut | Açıklama |
+|---|---|
+| sysinfo | Sistem bilgilerini gösterir |
+| ip | IP ve ağ bilgilerini gösterir | 
+| pingtest | İnternet gecikmesini ölçer |
+| speedtest | İnternet hız testi yapar |
+| analiz btcusdt | Teknik analiz yapar (kripto) |
+| analiz manas | Teknik analiz yapar (hisse) |
+| haber BTC | Finansal haberleri gösterir |
+| grafik thyao 1h | Terminalde Türk Hava Yolları hissesinin 1 saatlik grafiğini çizer |
+| grafik btcusdt 15m | Terminalde Bitcoin Usdt Kriptosunun 15 dakikalık grafiğini çizer |
+| ns google.com | Girilen domainin nameserverlarını verir |
+| passgen 24 3 | Tanesi 24 karakterden oluşan 3 adet güçlü şifre üretir |
+| genuuid | 1 adet uuid üretir |
+| genuuid --upper | 1 adet büyük harflerden oluşan uuid üretir |
+| genuuid 8 | 8 adet uuid üretir |
+| genuuid 8 --upper | 8 adet büyük harflerden oluşan uuid üretir |
+| size C:/CmdTools | C:/CmdTools klasörünün boyutunu gösterir |
+| size C:/CmdTools/README.md | C:/CmdTools/README.md dosyasının boyutunu gösterir |
 
 ---
 
