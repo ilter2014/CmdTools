@@ -1,0 +1,16 @@
+# CmdTools - Python bağımlılıkları
+# Linux kurulumu: pip3 install -r requirements.txt
+
+# Zorunlu (grafik.py için)
+plotext>=5.0
+
+# Opsiyonel (daha iyi performans/destek için)
+psutil>=5.9      # sysinfo.py, uptime.py için (opsiyonel fallback)
+requests>=2.28   # grafik.py için (diğer dosyalar urllib kullanır)
+yfinance>=0.2    # analiz.py, sinyal.py, ytai.py, alarm.py için (hisse fiyatları)
+netifaces>=0.1   # ip.py için (opsiyonel, ip komutu ile yerine geçer)
+
+# Not: speedtest.py için speedtest-cli ayrıca kurulmalıdır:
+#   pip3 install speedtest-cli
+# veya sistem paket yöneticisinizle:
+#   sudo apt install speedtest-cli
