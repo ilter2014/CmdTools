@@ -47,7 +47,7 @@ Repeated or serious violations may result in permanent removal from the project.
 
 If you experience or witness behavior that violates this Code of Conduct, please report it privately.
 
-**Email:** ilter9047@gmail.com
+**Email:** info@datadev.com.tr
 
 All reports will be reviewed confidentially whenever possible.
 

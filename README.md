@@ -171,7 +171,7 @@ CmdTools'u kullanıcı yorumları, öneriler ve ihtiyaçlar doğrultusunda; fır
 
 Her türlü geri bildirim, öneri ve destek talebi için:
 
-[ilter9047@gmail.com](mailto:ilter9047@gmail.com)
+[info@datadev.com.tr](mailto:info@datadev.com.tr)
 
 Gönderilen e-postalar incelenir ve uygun şekilde yanıtlanmaya çalışılır.
 

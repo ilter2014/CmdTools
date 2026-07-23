@@ -17,7 +17,7 @@ If you discover a security vulnerability in CmdTools, please do **not** disclose
 
 Instead, report it privately by email:
 
-**Email:** ilter9047@gmail.com
+**Email:** info@datadev.com.tr
 
 Please include the following information whenever possible:
 
@@ -51,4 +51,4 @@ Users are encouraged to keep CmdTools updated to the latest available release.
 
 Security Email:
 
-**[ilter9047@gmail.com](mailto:ilter9047@gmail.com)**
+**[info@datadev.com.tr](mailto:info@datadev.com.tr)**

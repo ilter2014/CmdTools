@@ -68,7 +68,7 @@ Harassment, abusive behavior, spam, or malicious contributions will not be accep
 
 If you have any questions regarding contributions, permissions, or development, please contact:
 
-**Email:** ilter9047@gmail.com
+**Email:** info@datadev.com.tr
 
 ---
 

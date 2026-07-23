@@ -31,7 +31,7 @@ If you wish to redistribute, publish, or commercially use this software or any m
 
 Permission requests must be sent to:
 
-Email: [ilter9047@gmail.com](mailto:ilter9047@gmail.com)
+Email: [info@datadev.com.tr](mailto:info@datadev.com.tr)
 
 Only written approval from the copyright holder grants permission.
 
@@ -59,6 +59,6 @@ Project: CmdTools
 
 License: CmdTools Custom License 1.0
 
-Contact: [ilter9047@gmail.com](mailto:ilter9047@gmail.com)
+Contact: [info@datadev.com.tr](mailto:info@datadev.com.tr)
 
 Copyright © 2026 CmdTools. All rights reserved.
